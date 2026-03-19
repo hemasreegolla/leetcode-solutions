@@ -8,6 +8,7 @@ My daily DSA and LeetCode practice
 | ------- |
 | [0001-two-sum](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ My daily DSA and LeetCode practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0027-remove-element) |
 ## Divide and Conquer
 |  |
 | ------- |

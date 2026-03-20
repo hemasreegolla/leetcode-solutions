@@ -11,10 +11,12 @@ My daily DSA and LeetCode practice
 | [0027-remove-element](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ My daily DSA and LeetCode practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

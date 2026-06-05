@@ -1,13 +1,28 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for(int i= 0 ; i < nums.length ; i++){
-            for(int j = i+1 ; j< nums.length ;j++){
-                if(nums[i]+nums[j]==target){
-                    return new int[]{i,j};
-                }
-            }
+        // create a Hashmap to store numbers and their indices
+        Map<Integer, Integer> map = new HashMap<>();
 
-        }
-    return new int[]{};  
+        //Iterate through the array
+        for( int i =0; i<nums.length; i++){
+
+            //calculate the complement of the current number
+            int complement = target - nums[i];
+
+            // check if the complement is already in the map
+            if(map.containsKey(complement)){
+
+                //if found, return the indices of the complement and current number
+
+                return new int[] {map.get(complement),i};
+            }
+            
+            //otherwise , add the current number and its index to the map 
+
+            map.put(nums[i],i);
+         }
+        //return an empty array if no solution is found(this case won't occur as per problem constraints)
+        return new int[] {};
     }
+
 }

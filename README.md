@@ -12,11 +12,13 @@ My daily DSA and LeetCode practice
 | [0136-single-number](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +45,8 @@ My daily DSA and LeetCode practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

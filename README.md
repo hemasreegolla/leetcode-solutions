@@ -19,6 +19,7 @@ My daily DSA and LeetCode practice
 | [0001-two-sum](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My daily DSA and LeetCode practice
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -49,4 +51,8 @@ My daily DSA and LeetCode practice
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

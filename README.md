@@ -14,6 +14,7 @@ My daily DSA and LeetCode practice
 | [0215-kth-largest-element-in-an-array](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ My daily DSA and LeetCode practice
 | ------- |
 | [0049-group-anagrams](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/hemasreegolla/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
